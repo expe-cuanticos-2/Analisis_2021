@@ -1,8 +1,8 @@
 # Experimentos Cuánticos II - UNLP
 
-En este repositorio los estudiantes pueden compartir código de análisis de las prácticas de laboratorio de la materia Experimentos Cuánticos II de la UNLP
+En este repositorio los estudiantes pueden compartir código de análisis de las prácticas de laboratorio de la materia Experimentos Cuánticos II de laFCE-UNLP
 
-http://www2.fisica.unlp.edu.ar/materias/Expcuan2/clases.html
+https://expe-cuanticos-2.github.io/ec2/#Experimentos
 
 ## Grupos
 
